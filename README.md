@@ -1,4 +1,4 @@
 # Mountain-Travel
 CSS Flexbox
 
-A small on responsive website using flexbox.
+A small one page responsive website using flexbox.
